@@ -1,0 +1,35 @@
+.about-text {
+    height: 70px;
+    width: 490px;
+    /*display: inline-block;*/
+    /*margin-top: 100px;*/
+    background-color: rgb(242, 205, 212);
+    text-align: center;
+    /*float: right;*/
+    /*border: 3px solid #000;*/
+    font-weight: 700;
+    z-index: -1;
+    box-shadow: 2px 2px #fff;
+    border-radius: 6px;
+    font-family: 'Cookie', cursive;
+    margin-left: 32%;
+}
+.container {
+    width: 100%;
+    margin: 0 auto;
+    height: 850px;
+    /*margin-top: 20px;*/
+}
+
+.about-col {
+    width: 31%;
+    height: 654px;
+    border: 3px solid grey;
+    float: left;
+    margin-left: 13px;
+    
+}
+.about-col p {
+    padding: 10px 10px;
+    text-align: justify;
+}

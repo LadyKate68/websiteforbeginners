@@ -1,0 +1,39 @@
+.about-header {
+    height: 70px;
+    width: 490px;
+    /*display: inline-block;*/
+    /*margin-top: 100px;*/
+    background-color: rgb(242, 205, 212);
+    text-align: center;
+    /*float: right;*/
+    /*border: 3px solid #000;*/
+    font-weight: 700;
+    z-index: -1;
+    box-shadow: 2px 2px #fff;
+    border-radius: 6px;
+    font-family: 'Cookie', cursive;
+    margin-left: 32%;
+}
+.container {
+    width: 100%;
+    height: 800px;
+    margin-top: 30px;
+    
+}
+.map {
+    height: 450px;
+    width: 600px;
+    border: grey solid 6px;
+    float: left;
+    margin-left; 5%
+}
+.notranslate {
+    color: green;
+}
+.form {
+    width: 48%;
+    float: right;
+    /*float: left; if there are 3 columns*/
+      border: 6px solid rgb(255,185,201);
+    
+}
